@@ -1,4 +1,5 @@
-### Hi there 👋
+<!--### Hi there 👋-->
+**I welcome any code reviews and pull requests!**
 
 <!--
 **kulcsarrudolf/kulcsarrudolf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
