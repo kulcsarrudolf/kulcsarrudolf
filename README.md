@@ -6,8 +6,6 @@
 
 ### 🔗 I decided to share some of my ideas and attempts hoping that some of them can be helpful for someone. I hope you will find them beneficial and interesting, meanwhile I keep working to have as many relevant repositories and contributions as possible.
 
-### 🙏🏻 Please feel free to do **code reviews** and **pull requests**!
-
 ### 🙌 **Catch me on the flip side.** 
 
 ### ✉️ Get in touch via social media or email at kulcsarrudolf@gmail.com
