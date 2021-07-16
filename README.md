@@ -1,6 +1,6 @@
 ## **Welcome!** <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-### 👨‍💻 I am a 26 year-old software developer living in [Cluj-Napoca](https://en.wikipedia.org/wiki/Cluj-Napoca). Since I remember of my first experience, I have been a big fan of technology, and I try to keep up with all the news of its. The most groundbreaking experience of my life with coding was when I was 12 years old. I got my first professional full-time job as a software developer in 2017.
+### 👨‍💻 I am a 27 year-old software developer living in [Cluj-Napoca](https://en.wikipedia.org/wiki/Cluj-Napoca). Since I remember of my first experience, I have been a big fan of technology, and I try to keep up with all the news of its. The most groundbreaking experience of my life with coding was when I was 12 years old. I got my first professional full-time job as a software developer in 2017.
 
 ### 📚 I have constantly been trying to improve my skills and I don’t hesitate when I realize that there is still a lot to learn, so I am always open to new challenges.
 
