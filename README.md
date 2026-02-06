@@ -12,5 +12,3 @@
 
 ### <img src="https://raw.githubusercontent.com/kulcsarrudolf/kulcsarrudolf/master/linkedin.png" width="16px"> **LinkedIn:** [https://www.linkedin.com/in/kulcsarrudolf/](https://www.linkedin.com/in/kulcsarrudolf/)
 ### <img src="https://raw.githubusercontent.com/kulcsarrudolf/kulcsarrudolf/master/twitter.png" width="16px"> **Twitter:** [https://twitter.com/kulcsar_rudolf](https://twitter.com/kulcsar_rudolf)
-
-[![committers.top badge](https://user-badge.committers.top/romania_public/kulcsarrudolf.svg)](https://user-badge.committers.top/romania_public/kulcsarrudolf)
