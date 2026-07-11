@@ -2,12 +2,8 @@
 
 **Full-stack developer building AI-powered products.**
 
-Shipping software professionally since 2017, from Cluj-Napoca, Romania.
-I design, build, test, deploy, and operate products end to end.
-
-## 💼 What I do
-
-Software developer at [InnovatorSpark](https://innovatorspark.com), turning ideas from startups and small to midsize companies into working products, and putting new technology to work where it creates the most value for their users and their business.
+Shipping software professionally since 2017, from Cluj-Napoca, Romania, across multinationals, startups, and midsize companies.
+Currently at [InnovatorSpark](https://innovatorspark.com), turning ideas into working products (designed, built, tested, deployed, and operated end to end) and putting new technology to work where it creates the most value for users and the business.
 
 ## 📦 Open source
 
