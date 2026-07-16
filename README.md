@@ -10,6 +10,7 @@ Currently at [InnovatorSpark](https://innovatorspark.com), turning ideas into wo
 - [zimme-zoom](https://github.com/kulcsarrudolf/zimme-zoom): React image components for lightbox, zoom, gallery, and carousel use cases, published on npm.
 - [samsung-device-helper](https://github.com/kulcsarrudolf/samsung-device-helper): a utility library for managing Samsung devices, published on npm.
 - [mongoose-seed-kit](https://github.com/kulcsarrudolf/mongoose-seed-kit): a lightweight, zero-dependency seeder toolkit for Mongoose.
+- [pg-seed-kit](https://github.com/kulcsarrudolf/pg-seed-kit): a lightweight, zero-dependency seeder toolkit for Postgres that works with Prisma, Drizzle, TypeORM, and Sequelize.
 
 ## ✍️ Writing
 
