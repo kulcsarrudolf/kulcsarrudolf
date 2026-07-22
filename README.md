@@ -11,6 +11,7 @@ Currently at [InnovatorSpark](https://innovatorspark.com), turning ideas into wo
 - [samsung-device-helper](https://github.com/kulcsarrudolf/samsung-device-helper): a utility library for managing Samsung devices, published on npm.
 - [mongoose-seed-kit](https://github.com/kulcsarrudolf/mongoose-seed-kit): a lightweight, zero-dependency seeder toolkit for Mongoose.
 - [pg-seed-kit](https://github.com/kulcsarrudolf/pg-seed-kit): a lightweight, zero-dependency seeder toolkit for Postgres that works with Prisma, Drizzle, TypeORM, and Sequelize.
+- [stl-metrics](https://github.com/kulcsarrudolf/stl-metrics): a modern, zero-dependency library for STL mesh metrics (volume, surface area, bounding box, center of mass, and watertightness) that runs in the browser and Node, with an optional off-main-thread worker.
 
 ## ✍️ Writing
 
